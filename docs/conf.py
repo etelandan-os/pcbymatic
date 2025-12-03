@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Sphere Webroot'
-copyright = '2025'
-author = 'Rachel Adler'
+project = 'PC by Matic'
+copyright = 'PC by Matic | 2025'
+author = 'Natalie Ataumbi'
 
 release = '1.0'
 
